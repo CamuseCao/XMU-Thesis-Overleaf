@@ -1,4 +1,4 @@
-%%
+AD%%
 %% This is file `gbt7714-unsrt.bst',
 %% generated with the docstrip utility.
 %%
