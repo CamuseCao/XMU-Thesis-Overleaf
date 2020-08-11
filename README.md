@@ -1,3 +1,9 @@
+
+## 该项目已经过时，且不再维护，请查看 ![XMU-thesis](https://github.com/CamuseCao/XMU-thesis)，这个项目目前在维护，并且可以在 Overleaf 上使用！！！
+
+---
+---
+
 ![](https://img.shields.io/badge/Language-TeX-red.svg) ![](https://img.shields.io/github/stars/CamuseCao/XMU-Undergraduate-thesis-template.svg?style=social)  ![](https://img.shields.io/github/last-commit/CamuseCao/XMU-Undergraduate-thesis-template.svg?style=social&logo=Tinder) ![](https://img.shields.io/github/repo-size/CamuseCao/XMU-Undergraduate-thesis-template.svg) ![](https://img.shields.io/github/languages/code-size/CamuseCao/XMU-Undergraduate-thesis-template.svg) ![](https://img.shields.io/github/followers/CamuseCao.svg?label=Followers)
 
 ![]()
@@ -31,8 +37,9 @@
 
 邮箱： [camusecao@gmail.com](mailto:camusecao@gmail.com)
 
-该项目原github项目的地址是 : [Link](https://github.com/CamuseCao/XMU-Undergraduate-thesis-template)
+该项目原github项目的地址是 : [Link](https://github.com/CamuseCao/XMU-thesis)
 
 `Overleaf`在线编译的项目的地址 ：[Githu下载](https://github.com/CamuseCao/XMU-Thesis-Overleaf)    [Overleaf查看与下载](https://www.overleaf.com/2128697983jhmpkzxdzmry) 
+
 
 (`Overleaf`项目的地址请勿随意编辑，方便大家的观看。你可以把它拷到你自己的项目下尽情玩耍。)
