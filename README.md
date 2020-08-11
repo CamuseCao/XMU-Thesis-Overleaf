@@ -1,5 +1,5 @@
 
-## 该项目已经过时，且不再维护，请查看 ![XMU-thesis](https://github.com/CamuseCao/XMU-thesis)，这个项目目前在维护，并且可以在 Overleaf 上使用！！！
+## 该项目已经过时，且不再维护，请查看 [XMU-thesis](https://github.com/CamuseCao/XMU-thesis)，这个项目目前在维护，并且可以在 Overleaf 上使用！！！
 
 ---
 ---
